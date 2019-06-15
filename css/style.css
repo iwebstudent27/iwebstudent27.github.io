@@ -1,3 +1,19 @@
 body {
     background: red;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    display: grid;
+    align-content: center;
+    text-align: center; 
+    min-height: 100vh;
+}
+ul {
+    display: grid;
+    align-content: left;
+    text-align: left;
+    min-height: 5vh;
+}
+h2 {
+    font-size: 20px;
 }
