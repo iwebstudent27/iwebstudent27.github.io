@@ -9,11 +9,11 @@ body {
     min-height: 100vh;
 }
 ul {
-    display: grid;
-    align-content: left;
     text-align: left;
-    min-height: 5vh;
+    max-width: 400px;
+    margin: 0 auto;
 }
 h2 {
     font-size: 20px;
+    text-align: center;
 }
