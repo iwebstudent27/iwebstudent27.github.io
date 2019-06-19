@@ -9,14 +9,14 @@ body {
 
 a {
     text-decoration: none;
-    color: darkred;
+    color: black;
 }
 
 
 /* HEADER */
 header {
     background: gray;
-    color: hwite;
+    color: white;
     padding: 1em 2em;
 }
 
