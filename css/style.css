@@ -57,6 +57,12 @@ main {
     padding: 0 0 3em 0;
     min-height: 80vh;
 }
+
+/* SECTION */
+
+section {
+    padding: 3em 1em;
+}
 /* FOOTER */
 footer {
     border-top: 1px solid #ddd;
@@ -101,3 +107,4 @@ footer nav ul {
         grid-template-columns: 1fr 1fr;
     }
 }
+
