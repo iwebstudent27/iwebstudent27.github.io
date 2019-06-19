@@ -15,7 +15,7 @@ a {
 
 /* HEADER */
 header {
-    background: black;
+    background: gray;
     color: hwite;
     padding: 1em 2em;
 }
@@ -78,9 +78,9 @@ footer nav ul {
     display: grid;
     align-content: center;
     text-align: center;
-    background: darkred;
+    background: dodgerblue;
     min-height: 50vh;
-    color: gray;
+    color: dimgrey;
 }
 
 .hero h2 {
