@@ -15,7 +15,7 @@ a {
 
 /* HEADER */
 header {
-    background: gray;
+    background: black;
     color: white;
     padding: 1em 2em;
 }
@@ -80,7 +80,7 @@ footer nav ul {
     text-align: center;
     background: dodgerblue;
     min-height: 50vh;
-    color: dimgrey;
+    color: black;
 }
 
 .hero h2 {
@@ -108,3 +108,9 @@ footer nav ul {
     }
 }
 
+/* SUB PAGES */
+
+.page-sub .hero {
+    min-height: 30vh;
+    background: #888; 
+}
