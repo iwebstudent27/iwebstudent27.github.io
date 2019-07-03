@@ -111,7 +111,7 @@ footer nav ul {
 /* SUB PAGES */
 
 .page-sub .hero {
-    min-height: 30vh;
+    min-height: 50vh;
     background: #888; 
 }
 
@@ -131,4 +131,14 @@ footer nav ul {
 .date {
     opacity: .5;
     font-size: .8em;
+}
+
+/* UI DESIGN SECTION */
+
+.ui-designs {
+    text-align: center;
+}
+
+.ui-designs img {
+    max-width: 200px;
 }
