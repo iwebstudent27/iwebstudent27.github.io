@@ -93,6 +93,12 @@ footer nav ul {
     margin: 1em auto;
 }
 
+.page-home .hero {
+    background-image: url('../images/sunset.jpg');
+    background-position: center right;
+    background-size: cover;
+}
+
 /* Lists */
 .lists {
     max-width: 1000px;
