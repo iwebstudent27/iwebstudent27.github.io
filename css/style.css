@@ -93,14 +93,14 @@ footer nav ul {
     margin: 1em auto;
 }
 
-.page-home .hero {
+.hero {
     background-image: url('../images/sunset.jpg');
     background-position: center right;
     background-size: cover;
 }
 
 .page-about .hero {
-    background-image: url('../images/sunset.jpg');
+    background-image: url('../images/beach.jpg');
     background-position: center right;
     background-size: cover;
 }
@@ -124,7 +124,6 @@ footer nav ul {
 
 .page-sub .hero {
     min-height: 50vh;
-    background: #888; 
 }
 
 /* BLOG Archives */
