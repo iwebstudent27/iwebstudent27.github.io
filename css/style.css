@@ -15,7 +15,8 @@ a {
 
 /* HEADER */
 header {
-    background: black;
+    position: absolute;
+    width: 100%;
     color: white;
     padding: 1em 2em;
 }
@@ -78,15 +79,14 @@ footer nav ul {
     display: grid;
     align-content: center;
     text-align: center;
-    background: dodgerblue;
     min-height: 50vh;
-    color: black;
+    color:white;
 }
 
 .hero h2 {
-    font-size: 3em;
+    font-size: 2.5em;
     text-transform: uppercase;
-    margin: 0 auto;
+    margin: 50px auto 0 auto;
 }
 
 .hero p {
@@ -94,6 +94,12 @@ footer nav ul {
 }
 
 .page-home .hero {
+    background-image: url('../images/sunset.jpg');
+    background-position: center right;
+    background-size: cover;
+}
+
+.page-about .hero {
     background-image: url('../images/sunset.jpg');
     background-position: center right;
     background-size: cover;
