@@ -193,7 +193,9 @@ footer nav ul {
         display: flex;
         max-height: 500px;
         transition: .8s all ease-out;
-        padding-top: 2em;
+        padding-top: 0;
+        padding-right: 2em;
+        margin-top: -0.5em;
     }
     
     .toggle-nav .site-nav ul li {
