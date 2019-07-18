@@ -36,6 +36,10 @@ header {
     margin: 0;
 }
 
+.site-id img {
+    max-width: 55px;
+}
+
 /* SITE NAV */
 nav ul {
     display: flex;
